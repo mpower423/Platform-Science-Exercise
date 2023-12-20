@@ -21,10 +21,7 @@
 #
 # 2) don't do calculations more than once and store the result for further use. Eg. calculate the driver's factors the first time but not after
 #
-# 3) The test data results match up such that there are not more than one driver with the best SS. I did not (yet) cover the situation to remove a driver
-#    from the list once it is selected as the best
-#
-# 4) Error handling/data exceptions (bad data)
+# 3) Error handling/data exceptions (bad data)
 
 # Run instructions:
 # Based on Python 3.12
